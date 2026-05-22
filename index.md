@@ -10,10 +10,10 @@ humandate: "Jun 8-9, 2026"
 humantime: "9:00 am - 5:00 pm EST"
 startdate: 2026-06-08
 enddate: 2026-06-09
-instructor: ["Christie Bahlai"]
+instructor: ["Christie Bahlai", "Ellen Bledsoe", "Khaoula Ferchichi", "Shamina Vastani"]
 helper: ["Kenneth Anderson", "Robert Boyd", "Elias del Val", "Thomas Franzem", "Raissa Mendonca"]
 email: ["cbahlai@kent.edu"]
-collaborative_notes: "https://pad.carpentries.org/2026-06-08-ksubsci"
+collaborative_notes: "https://pad.carpentries.org/2026-06-08-kentstate-online"
 ---
 
 {% comment %}
